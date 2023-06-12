@@ -31,7 +31,10 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 ### `npm run eject`
 
-### `son-server --watch db.json --port 8000`
+### `npm install axios`
+
+### `json-server --watch db.json --port 8000`
+to run api 
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
